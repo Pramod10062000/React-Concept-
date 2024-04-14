@@ -1,0 +1,42 @@
+{
+    "DataStructures": [
+        {
+            "Question": "How was the Lecture ?",
+            "options": [
+                "Good",
+                "Average",
+                "Below Average"
+            ],
+            "id":1
+        },
+        {
+            "Question": "How was the tutor ?",
+            "options": [
+                "Good",
+                "Average",
+                "Below Average"
+            ],
+            "id":2
+        },
+        {
+            "Question": "How was the communication ?",
+            "options": [
+                "Good",
+                "Average",
+                "Below Average"
+            ],
+            "id":3
+        },
+        {
+            "Question": "How was the Lecture Notes?",
+            "options": [
+                "Good",
+                "Average",
+                "Below Average"
+            ],
+            "id":4
+        }
+        
+        
+    ]
+}

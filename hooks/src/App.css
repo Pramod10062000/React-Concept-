@@ -1,0 +1,16 @@
+.container{
+  margin: auto;
+  min-height : 200px;
+  max-width: 200px;
+  border: 4px black solid;
+}
+input{
+  margin: 20px auto;
+  margin-left:20px ;
+}
+button{
+  display: block;
+ 
+  margin: auto;
+  margin-top: 10px;
+}

@@ -1,0 +1,13 @@
+.Hello{
+    margin: auto;
+    border: 2px solid black;
+    width: 30%;
+    height: 150px;
+    margin-top: 2px;
+    font-size: small;
+    text-align: center;
+}
+button{
+    margin-left:700px;
+border: 2px solid red;
+}

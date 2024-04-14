@@ -1,0 +1,11 @@
+.container{
+    margin:20px;
+    width: 400px;
+    height: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px solid black;
+    background-image: linear-gradient(Skyblue,yellow);
+}
+.header{
+    color: red;
+}

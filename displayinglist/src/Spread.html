@@ -1,0 +1,19 @@
+
+    <html>
+        <body>
+
+            <p>The "spread" operator spreads elements of iterable objects:</p>
+            <p id="demo"></p>
+
+            <script>
+                const numbersOne = [1, 2, 3];
+                const numbersTwo = [4, 5, 6];
+                const numbersCombined = [...numbersOne];
+                console.log(typeof numbersCombined);
+                console.log(numbersCombined);
+
+                document.getElementById("demo").innerHTML = numbersCombined;
+            </script>
+
+        </body>
+    </html>

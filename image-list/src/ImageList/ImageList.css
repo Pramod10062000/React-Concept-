@@ -1,0 +1,11 @@
+.ImageList{
+    width: 310px;
+    height: 234px;
+    border: 4px black solid;
+    text-align: center;
+    margin: auto;
+}
+img{
+    width: 310px;
+    height: 234px;
+}
